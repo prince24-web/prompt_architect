@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Architect",
+  "description": "An AI-powered tool that transforms simple ideas into comprehensive, detailed development prompts using Gemini 2.5.",
+  "requestFramePermissions": []
+}
