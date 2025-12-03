@@ -73,7 +73,7 @@ const App: React.FC = () => {
         {/* Hero Text */}
         <div className="text-center mb-12 max-w-2xl">
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-slate-900 mb-4">
-            Web Intelligence. Simplified.
+            Better prompts, Better results.
           </h1>
           <p className="text-lg text-slate-600">
             Enter your rough idea, and let AI structure a comprehensive professional specification instantly.
